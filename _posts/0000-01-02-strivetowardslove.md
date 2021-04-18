@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my second slid!"
 ---
-Your test of stuff
+Weasels are interesting creatures!
 Use the left arrow to go back.
